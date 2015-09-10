@@ -1,0 +1,34 @@
+{
+  "name": "fontify",
+  "version": "0.0.1",
+  "description": "Copy font files from node_modules folder",
+  "main": "index.js",
+  "bin": {
+    "fontify": "./bin/fontify.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YoussefKababe/fontify.git"
+  },
+  "keywords": [
+    "fonts",
+    "copy",
+    "modules",
+    "bootstrap",
+    "front-end"
+  ],
+  "author": "Youssef Kababe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YoussefKababe/fontify/issues"
+  },
+  "homepage": "https://github.com/YoussefKababe/fontify#readme",
+  "dependencies": {
+    "app-root-dir": "^1.0.2",
+    "findit": "^2.0.0",
+    "is-there": "^4.0.0"
+  }
+}
