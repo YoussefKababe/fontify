@@ -3,7 +3,7 @@ Fontify
 
 Fontify is a simple tool that grabs all the fonts from the node_modules folder and places them wherever you want. This can be very helpful for developers who use [NPM](https://www.npmjs.com) to manage their front-end dependencies.
 
-###Usage:
+### Usage:
 
 Install Fontify:
 
@@ -25,7 +25,7 @@ Then place a file called "fontify.json" on the root folder of your project, you 
 
 Now when you type "**fontify**" in your terminal, Fontify will look for all the font files of the specified packages, and place them in a folder called "fonts" inside the destination folder.
 
-###Programmatic usage:
+### Programmatic usage:
 
 Install Fontify:
 
