@@ -1,6 +1,6 @@
 {
   "name": "fontify",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Copy font files from node_modules folder",
   "main": "index.js",
   "bin": {
